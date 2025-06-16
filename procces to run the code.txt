@@ -1,0 +1,14 @@
+step 1: open any browser and search for huggingface
+
+step 2: if you have no account in huggingface then create the account and login to it.
+
+step 3: after navigate to access tokens.
+
+step 4: there you find the create a api(application programming interface) key.
+
+step 5: give a name to it and give the necessary features to the api key and copy the api 	key.
+step 6: before use the requriments.txt to download all the requirement libraries  
+	by using this command "pip install -r requirements.txt"
+
+step 7: paste your api key in the value of HF_API_KEY. or replace your api key with 
+	following text "your_huggingface_api"
