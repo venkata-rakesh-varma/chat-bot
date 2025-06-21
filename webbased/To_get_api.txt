@@ -1,2 +1,0 @@
-Follow the process in the process to run the code.txt to get an api
-after replace the "your_huggingface_api" with your api key
