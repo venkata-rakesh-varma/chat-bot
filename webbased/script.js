@@ -1,4 +1,4 @@
-const API_KEY = "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";  // <-- Replace this with your Hugging Face API key
+const API_KEY = "YOUR_HUGGINGFACE_API";  // <-- Replace this with your Hugging Face API key
 const MODEL = "mistralai/Mixtral-8x7B-Instruct-v0.1";
 
 const chatBox = document.getElementById("chat-box");
